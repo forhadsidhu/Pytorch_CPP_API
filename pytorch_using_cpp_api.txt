@@ -1,0 +1,9 @@
+D:\Downloads\libtorch\include\torch\csrc\api\include\
+D:\Downloads\libtorch\include\torch\csrc\api\include\
+         ----Include directories
+
+D:\Downloads\libtorch\lib\ ---linker general
+
+---linker input
+torch.lib
+c10.lib
